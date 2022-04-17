@@ -1,4 +1,4 @@
-[![Minghou Lei, Brave New World](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Nice%20to%20meet%20you!&title=Minghou%20Lei)](https://pimp-my-readme.webapp.io)
+[![Minghou Lei, Brave New World](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Nice%20to%20meet%20you!&title=Minghou-Lei)](https://pimp-my-readme.webapp.io)
 [![Visitor Counter for Minghou-Lei](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Minghou-Lei)](https://pimp-my-readme.webapp.io)
 
 - Currently working as a Game Engine Developer for Kingsoft in China
