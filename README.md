@@ -7,6 +7,4 @@
 - {...♥️} #SpreadLove #WeRaceAsOne🏎🌈 #StandWithUkriane
 
 
-![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minghou-Lei&include_all_commits=true&show_icons=true&theme=radical)
-
-![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical)
+![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minghou-Lei&include_all_commits=true&show_icons=true&theme=radical)![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical)
