@@ -1,6 +1,6 @@
-![Minghou's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Minghou-Lei&theme=onedark)
-
 ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minghou-Lei&include_all_commits=true&show_icons=true&theme=radical)
+
+![Minghou's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Minghou-Lei&theme=onedark)
 
 - Currently working as a Game Engine Developer for Kingsoft in China
 - Mainly use #C-sharp #ShaderLab and #HLSL
