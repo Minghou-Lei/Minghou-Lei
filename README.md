@@ -3,7 +3,7 @@
 ![Minghou's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Minghou-Lei&theme=onedark)
 
 - Currently working as a Game Engine Developer for Kingsoft in China
-- Mainly use #C-sharp #ShaderLab and #HLSL
+- Mainly use #C-sharp #ShaderLab #HLSL #python and #c++
 - Find me On [LinkedIn](https://www.linkedin.com/in/%E6%98%8E%E7%9A%93-%E6%9D%8E-597356105/), [脉脉](https://maimai.cn/contact/share/card?u=kgmsdwiqpe9a&_share_channel=copy_link), [instagram](https://www.instagram.com/mistletoer76/)
 - {...♥️} #SpreadLove #WeRaceAsOne🏎🌈 #StandWithUkriane
 
