@@ -8,3 +8,6 @@
 - {...♥️} #SpreadLove #WeRaceAsOne🏎🌈 #StandWithUkriane
 
 ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
