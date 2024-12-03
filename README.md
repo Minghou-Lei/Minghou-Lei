@@ -10,39 +10,39 @@
 ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
+> 🏆 13 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-🌆 Daytime                945 commits         ███████████████████████░░   91.30 % 
-🌃 Evening                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+🌞 Morning                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+🌆 Daytime                946 commits         ███████████████████████░░   91.31 % 
+🌃 Evening                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   806 commits         ███████████████████░░░░░░   77.87 % 
-Tuesday                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Wednesday                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Monday                   806 commits         ███████████████████░░░░░░   77.80 % 
+Tuesday                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Wednesday                39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 Thursday                 49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Friday                   39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Friday                   39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
@@ -89,5 +89,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 03:13:42 UTC
+ Last Updated on 03/12/2024 17:02:48 UTC
 <!--END_SECTION:waka-->
