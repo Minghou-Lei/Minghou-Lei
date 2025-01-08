@@ -10,7 +10,7 @@
 <!-- ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,5 +89,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 17:10:07 UTC
+ Last Updated on 08/01/2025 16:59:18 UTC
 <!--END_SECTION:waka-->
