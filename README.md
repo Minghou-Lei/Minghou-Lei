@@ -18,8 +18,6 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -82,5 +80,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 16:55:36 UTC
+ Last Updated on 03/02/2025 17:09:50 UTC
 <!--END_SECTION:waka-->
