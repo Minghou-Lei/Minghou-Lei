@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,5 +90,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 17:02:41 UTC
+ Last Updated on 04/08/2025 17:12:26 UTC
 <!--END_SECTION:waka-->
