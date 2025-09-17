@@ -10,13 +10,13 @@
 <!-- ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,5 +41,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 17:05:59 UTC
+ Last Updated on 17/09/2025 17:06:16 UTC
 <!--END_SECTION:waka-->
