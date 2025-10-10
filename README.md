@@ -10,9 +10,9 @@
 <!-- ![Minghou's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-lei&layout=compact&theme=radical) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,16 +53,21 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 8 mins        ████████████████████████░   95.64 % 
+Csproj                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Assembly                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+UnityYaml                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FSM                      2 hrs 7 mins        ████████████████████████░   94.77 % 
+Main                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -82,5 +87,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 16:30:22 UTC
+ Last Updated on 10/10/2025 16:28:21 UTC
 <!--END_SECTION:waka-->
