@@ -94,7 +94,7 @@ I have contributed to **8 published / granted invention patents** in game engine
 
 [GitHub](https://github.com/Minghou-Lei) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/%E6%98%8E%E7%9A%93-%E6%9D%8E-597356105/) &nbsp;·&nbsp; [脉脉](https://maimai.cn/contact/share/card?u=kgmsdwiqpe9a&_share_channel=copy_link) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/mistletoer76/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Minghou-Lei&style=flat-square&color=555&label=views)
+<img src="https://komarev.com/ghpvc/?username=Minghou-Lei&style=flat-square&color=555555&label=views" alt="Profile views" />
 
 ---
 
