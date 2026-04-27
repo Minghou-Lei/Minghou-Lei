@@ -1,7 +1,7 @@
 ## Minghou Lei · 李明皓
 
 **Game Engine R&D Engineer · 游戏引擎研发工程师**  
-Xishanju · Engine Platform · 西山居 · 引擎平台 · 广东珠海
+[Kingsoft · Amazing Seasun Games](https://www.amazingseasun.com/) · Engine Platform · 西山居 · 引擎平台 · 广东珠海
 
 > *Building rendering systems that hold up under production pressure — carefully, curiously, and with a bit of stubbornness.*
 >
@@ -11,7 +11,7 @@ Xishanju · Engine Platform · 西山居 · 引擎平台 · 广东珠海
 
 ### About · 关于
 
-Game engine engineer at Xishanju, working on real-time rendering and engine-level graphics infrastructure since 2021. I'm on the Engine Platform team, focused on problems that sit between "visually correct" and "actually ships" — lighting stability, streaming memory control, hair rendering, baking pipeline throughput, and cross-platform quality consistency.
+Game engine engineer at [Amazing Seasun Games](https://www.amazingseasun.com/) (Kingsoft), working on real-time rendering and engine-level graphics infrastructure since 2021. I'm on the Engine Platform team, focused on problems that sit between "visually correct" and "actually ships" — lighting stability, streaming memory control, hair rendering, baking pipeline throughput, and cross-platform quality consistency.
 
 入职西山居引擎平台团队至今，专注实时渲染管线与引擎底层图形基础设施建设，核心关注光照体系稳定性、流式渲染内存峰值控制、毛发渲染质量效率与多端渲染一致性。
 
@@ -51,11 +51,18 @@ I care about graphics debuggers that tell the truth, tools that reduce guesswork
 
 ### Tech Stack · 技术栈
 
+**Languages · 语言**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=directx&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=flat-square&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Engines & Tools · 引擎与工具**
+
+![KG3DEngine](https://img.shields.io/badge/KG3DEngine-8B0000?style=flat-square&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![RenderDoc](https://img.shields.io/badge/RenderDoc-CC3333?style=flat-square&logoColor=white)
