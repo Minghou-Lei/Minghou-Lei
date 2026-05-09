@@ -55,18 +55,28 @@ I care about graphics debuggers that tell the truth, tools that reduce guesswork
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=directx&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=flat-square&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Engines & Tools · 引擎与工具**
+**Engine / Rendering · 引擎与渲染**
 
 ![KG3DEngine](https://img.shields.io/badge/KG3DEngine-8B0000?style=flat-square&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX%2011-0078D4?style=flat-square&logoColor=white)
 ![RenderDoc](https://img.shields.io/badge/RenderDoc-CC3333?style=flat-square&logoColor=white)
+![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**IDE / AI Tooling · 开发与 AI 工具**
+
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
