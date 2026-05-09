@@ -92,9 +92,9 @@ I have contributed to **8 published / granted invention patents** in game engine
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-Lei&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-Lei&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" />
 
 </div>
 
