@@ -88,8 +88,8 @@ Exploring AI coding agents in large engine codebases.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Minghou-Lei&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+<img height="160" src="https://streak-stats.demolab.com/?user=Minghou-Lei&theme=tokyonight&hide_border=true" />
 
 <br/>
 
