@@ -1,8 +1,19 @@
-## Minghou Lei · 李明皓
+<div align="center">
 
-**Game Engine R&D Engineer · 游戏引擎研发工程师**  
-[Kingsoft · Amazing Seasun Games](https://www.amazingseasun.com/) · Engine Platform · Commercial Engine Team  
-西山居 · 引擎平台 · 商业引擎组 · 广东珠海
+# 李明皓 · Minghou Lei
+
+### Game Engine R&D Engineer
+**Rendering · Lighting · Console Platforms · AI Engineering**
+
+5+ years in games · Unity engine-level customization · PC / Xbox / PS5 / Switch 2
+
+[![GitHub followers](https://img.shields.io/github/followers/Minghou-Lei?style=flat-square&color=blue&label=Followers)](https://github.com/Minghou-Lei)
+[![Profile views](https://komarev.com/ghpvc/?username=Minghou-Lei&style=flat-square&color=blue&label=Profile+views)](https://github.com/Minghou-Lei)
+[![Patents](https://img.shields.io/badge/Patents-8%20filed%20·%204%20first%20inventor-orange?style=flat-square)](#-research--patents)
+
+</div>
+
+---
 
 > *Building rendering systems that hold up under production pressure — carefully, curiously, and with a bit of stubbornness.*
 >
@@ -10,93 +21,97 @@
 
 ---
 
-### About · 关于
+### 👋 About
 
-Game engine engineer at [Amazing Seasun Games](https://www.amazingseasun.com/) (Kingsoft) since 2021, on the **Engine Platform · Commercial Engine Team**. Most of my time goes into customizing **Unity** at the engine level to ship rendering capabilities Unity doesn't give you out of the box — distributed voxel GI baking, Nanite-like virtual geometry, OIT hair, hierarchical lighting topology. I also do **Xbox / PS5 platform debugging** to keep cross-platform parity sane. The JX3 project still uses our in-house engine **KG3DEngine**, so I work across both.
+Game engine engineer working in the industry since 2021. Most of my time goes into customizing **Unity at the engine level** to ship rendering capabilities Unity doesn't give you out of the box — distributed voxel GI baking, Nanite-like virtual geometry, OIT hair, hierarchical multi-actor lighting. I also do **Xbox / PS5 platform debugging** to keep cross-platform parity sane, and work in **in-house C++ engines** alongside Unity.
 
-入职西山居（金山）**引擎平台·商业引擎组** 至今,主力基于 **Unity 引擎深度定制** 为多款产品提供渲染底层——在 Unity 上自研落地体素 GI 烘焙、类 Nanite 虚拟几何体、OIT 毛发、多主角分层光照等非原生能力,同时负责 **Xbox / PS5 主机平台渲染调试** 保证多端一致性；JX3 项目使用自研引擎 **KG3DEngine**。
-
-I care about graphics debuggers that tell the truth, tools that reduce guesswork, and rendering code that clearly explains what it is doing. Side track: bringing AI coding agents into large-scale engine codebases.
-
-关心说真话的图形调试器、减少猜测的工具,以及能清楚表达自身行为的渲染代码。副线探索 AI 辅助引擎研发工作流。
+I care about graphics debuggers that tell the truth, tools that reduce guesswork, and rendering code that clearly explains what it's doing. Side track: **bringing AI coding agents into large-scale engine codebases**.
 
 ---
 
-### Shipped Titles · 参与项目
+### 🚧 Currently
 
-| Game · 游戏 | Stack · 技术栈 | Contribution · 参与方向 |
-|---|---|---|
-| [**Mecha BREAK · 解限机**](https://store.steampowered.com/app/2452280/) | Unity · PC / Xbox / PS5 | OIT hair · distributed voxel GI baking · Nanite-like virtual geometry pipeline · hierarchical multi-actor lighting · SSR / SSGI · **console platform debugging** |
-| [**Starsand Island · 星砂岛**](https://store.steampowered.com/app/2966320/) | Unity · PC / Switch 2 / Xbox | Static/dynamic shadow split · GPU skinning at scale · foliage interaction system |
-| [**JX3 · 剑网3**](https://jx3.xoyo.com) | KG3DEngine · 自研 | Editor-side lighting debug tooling — perf statistics panel, debug toggles (Cluster Debug compatible), in-editor heatmap overlay |
-| **Me and My Cat · 我和我的猫** | Unity · 项目终止 | Point light real-time shadows · SSAO · light probe optimization |
+- **Shipping** rendering features across multiple production titles on PC / Xbox / PS5
+- **Building** AI agent workflows for million-line C++ engine codebases (Codex / Claude Code / MCP)
+- **Exploring** cross-engine migration pipelines via AI tooling as a personal R&D project
 
 ---
 
-### Focus Areas · 技术方向
+### 🧪 Research & Patents
 
-| Area · 方向 | Details · 具体内容 |
-|---|---|
-| Real-time Rendering · 实时渲染 | Deferred shading, multi-pass lighting, **Unity SRP deep customization** |
-| Lighting & GI · 光照与全局光照 | Voxel-based distributed GI baking, hierarchical lighting topology, light probe optimization |
-| Console Platforms · 主机平台 | **Xbox / PS5** rendering debugging, cross-platform parity & stability |
-| Streaming & Virtual Geometry · 流式渲染 | Nanite-like virtual geometry, LOD streaming, cache-backed fallback, peak memory control |
-| Hair Rendering · 毛发渲染 | OIT transparency blending, depth-ordered compositing |
-| Graphics Tooling · 图形调试工具链 | RenderDoc / PIX / native console GPU profilers, editor-side diagnostic tools |
-| AI Engineering · AI 工程化 | Coding agents, context engineering, cross-engine migration via AI tooling |
+Credited on **8 invention patents** in game engine rendering — **4 as first inventor**, **2 already granted**.
+
+Coverage spans `hierarchical lighting topology` · `LOD streaming` · `cross-platform adaptive rendering` · `OIT hair` · `voxel-based distributed baking` · `light probe optimization` · `regional lighting`.
 
 ---
 
-### Research & Patents · 研究与专利
+### 🤖 AI Engineering · AI 工程化
 
-I'm credited on **8 invention patents** in game engine rendering — **4 as first inventor**, **2 already granted**, and **6 shipped in production** (Mecha BREAK, Me and My Cat).
+Side-time exploration on bringing AI coding agents into large-scale engine development.
 
-发明专利 **8 项**——**第一发明人 4 项**,**已授权 2 项**；**6 项已落地至量产项目**（解限机、我和我的猫）。
+- 🌟 **OSS contributions** — merged PRs to multi-thousand-star AI coding agent projects, focused on Codex hook stability and session continuity
+- 🛠 **Personal-led project** — cross-engine migration pipeline experiment via AI tooling, with **NVIDIA NVTT3 / DLISR** AI texture enhancement
+- 📉 **Measured impact** — on a large in-house C++ codebase: **−78% shell calls · −20% token usage**, adopted by colleagues as daily workflow
+- 🖥 **Local inference stack** — Mac Mini M1 (16GB) running MLX + Qwen3-9B-4bit, serving the Windows dev machine over LAN
 
-Coverage: hierarchical lighting topology · LOD-based streaming · adaptive cross-platform rendering · OIT hair · voxel-based distributed baking · probe optimization · regional lighting.
+---
 
-方向：分层/拓扑光照计算 · LOD 流式渲染 · 多端自适配 · OIT 毛发透明混合 · 体素化分布式烘焙 · 探针优化 · 区域光照。
+### 🎨 Featured Demos · 精选公开仓库
 
-<details>
-<summary><b>First-inventor patents · 第一发明人专利（4 项）</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[**GPU-Skinning-Demo**](https://github.com/Minghou-Lei/GPU-Skinning-Demo) ⭐ 137
+
+> GPU Skinning × GPU Instancing showcase. Thousands of animated agents at 60 FPS, lifted off the CPU.
+
+</td>
+<td width="50%" valign="top">
+
+[**Realtime-point-light-shadows-in-unity-URP**](https://github.com/Minghou-Lei/Realtime-point-light-shadows-in-unity-URP) ⭐ 51
+
+> Real-time point light shadows for Unity 2020 URP, filling a feature gap the official pipeline didn't ship.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[**Light-Probe-Demo**](https://github.com/Minghou-Lei/Light-Probe-Demo) ⭐ 16
+
+> Technical notes & samples on light probe placement strategies and runtime sampling.
+
+</td>
+<td width="50%" valign="top">
+
+[**unity-texture-debugger**](https://github.com/Minghou-Lei/unity-texture-debugger) ⭐ 14
+
+> Runtime debugger for GBuffer / AO textures — see what your shaders actually see.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[**SSAO-Demo**](https://github.com/Minghou-Lei/SSAO-Demo) ⭐ 10
+
+> Screen Space Ambient Occlusion implementation, written for clarity over cleverness.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
 <br>
-
-| Patent No. | Topic | Shipped In |
-|---|---|---|
-| **CN119215405A** (2024) | OIT hair multi-fragment transparency blending | Mecha BREAK · hair rendering |
-| **CN121074231A** (2025) | Hierarchical lighting topology by object priority | Mecha BREAK · multi-actor lighting |
-| **CN117218273A** (2023) | Voxel-based distributed GI baking | Mecha BREAK · open-world GI |
-| **CN115487495A / B** ✓ granted (2025) | Environment lighting × light-source ratio compositing | Prototype validation |
-
-</details>
-
----
-
-### AI Engineering · AI 工程化探索
-
-Side-time exploration on bringing AI coding agents into large-scale game engine development.
-
-工作之余系统性探索 AI 辅助引擎研发在大规模引擎代码库下的落地路径。
-
-- **OSS contributions** — merged PRs to multi-thousand-star AI coding agent projects, focused on Codex hook stability and session continuity
-- **Personal-led project** — built a **JX3 → UE5 cross-engine migration pipeline** via AI tooling, with **AI texture enhancement (NVIDIA NVTT3 / DLISR)**; completed end-to-end demo on two scenes
-- **Benchmarked impact** — measured **−78% shell calls / −20% token usage** on the KG3DEngine codebase, adopted by 5–8 colleagues as daily workflow
-- **Local inference stack** — Mac Mini M1 (16GB) running MLX + Qwen3-9B-4bit, serving the Windows dev machine across the LAN
-
-- **开源贡献** — 在头部 AI Coding Agent 开源项目（万星级）有 PR 被合并的贡献记录
-- **个人主导项目** — 主导 **剑网3 → UE5 跨引擎迁移工具链路**,含 **NVIDIA NVTT3 / DLISR AI 贴图增强**；完成两个场景的端到端迁移演示
-- **量化效果** — 在 KG3DEngine 代码库实测 **Shell 调用 −78% / Token −20%**,推动团队 5–8 人采纳为日常工作流
-- **本地推理栈** — Mac Mini M1（16GB）运行 MLX + Qwen3-9B-4bit,为 Windows 开发机供能
-
-Internal speaker at the company's TA bootcamp.
-
-担任公司内部 TA 训练营技术分享讲师。
-
----
-
-### Tech Stack · 技术栈
-
-**Languages · 语言**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -105,22 +120,34 @@ Internal speaker at the company's TA bootcamp.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Engine / Rendering · 引擎与渲染**
+</details>
+
+<details>
+<summary><b>Engine · Rendering · Profiling</b></summary>
+<br>
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![KG3DEngine](https://img.shields.io/badge/KG3DEngine-8B0000?style=flat-square&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![DirectX 11](https://img.shields.io/badge/DirectX%2011-0078D4?style=flat-square&logoColor=white)
 ![RenderDoc](https://img.shields.io/badge/RenderDoc-CC3333?style=flat-square&logoColor=white)
 ![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PIX](https://img.shields.io/badge/PIX-2F2F2F?style=flat-square&logoColor=white)
 
-**Console Platforms · 主机平台**
+</details>
+
+<details>
+<summary><b>Console Platforms</b></summary>
+<br>
 
 ![PlayStation 5](https://img.shields.io/badge/PlayStation%205-003791?style=flat-square&logo=playstation5&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
 ![Nintendo Switch 2](https://img.shields.io/badge/Switch%202-E60012?style=flat-square&logo=nintendoswitch&logoColor=white)
 
-**IDE / AI Tooling · 开发与 AI 工具**
+</details>
+
+<details>
+<summary><b>IDE · AI Tooling</b></summary>
+<br>
 
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
@@ -131,42 +158,41 @@ Internal speaker at the company's TA bootcamp.
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white)
 
----
-
-### Featured Repositories · 精选公开仓库
-
-A handful of graphics demos worth a look:
-
-- [**GPU-Skinning-Demo**](https://github.com/Minghou-Lei/GPU-Skinning-Demo) — GPU Skinning × GPU Instancing showcase · ⭐ 137
-- [**Realtime-point-light-shadows-in-unity-URP**](https://github.com/Minghou-Lei/Realtime-point-light-shadows-in-unity-URP) — Real-time point light shadows for Unity 2020 URP · ⭐ 51
-- [**Light-Probe-Demo**](https://github.com/Minghou-Lei/Light-Probe-Demo) — Light probe technical notes · ⭐ 16
-- [**unity-texture-debugger**](https://github.com/Minghou-Lei/unity-texture-debugger) — Runtime texture display for GBuffer / AO textures · ⭐ 14
-- [**SSAO-Demo**](https://github.com/Minghou-Lei/SSAO-Demo) — Screen Space Ambient Occlusion implementation · ⭐ 10
+</details>
 
 ---
 
-### GitHub Activity · 统计
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-Lei&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Minghou-Lei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Minghou-Lei&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minghou-Lei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
----
+#### 🏆 Trophies
 
-### Contact · 联系
+<div align="center">
 
-[GitHub](https://github.com/Minghou-Lei) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/%E6%98%8E%E7%9A%93-%E6%9D%8E-597356105/) &nbsp;·&nbsp; [脉脉](https://maimai.cn/contact/share/card?u=kgmsdwiqpe9a&_share_channel=copy_link) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/mistletoer76/)
+<img src="https://github-profile-trophy.vercel.app/?username=Minghou-Lei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
-<img src="https://komarev.com/ghpvc/?username=Minghou-Lei&style=flat-square&color=555555&label=views" alt="Profile views" />
+</div>
 
----
+#### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Minghou-Lei/Minghou-Lei/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <details>
-<summary>⏱ WakaTime Coding Stats · 编码统计</summary>
+<summary>⏱ <b>WakaTime Coding Stats · 编码统计</b></summary>
 <br>
 
 <!--START_SECTION:waka-->
@@ -181,7 +207,24 @@ Csproj                   3 mins              ░░░░░░░░░░░�
 
 🔥 Editor: Rider  |  💻 OS: Windows  |  🕑 Asia/Shanghai
 ```
-
 <!--END_SECTION:waka-->
 
 </details>
+
+---
+
+### ✉️ Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minghou-Lei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%98%8E%E7%9A%93-%E6%9D%8E-597356105/)
+[![脉脉](https://img.shields.io/badge/脉脉-Maimai-1E90FF?style=for-the-badge)](https://maimai.cn/contact/share/card?u=kgmsdwiqpe9a&_share_channel=copy_link)
+
+</div>
+
+<div align="center">
+<sub>Open to conversations on rendering, engine R&D, and AI-assisted graphics tooling.</sub>
+<br/>
+<sub>欢迎就渲染、引擎研发、AI 辅助图形工具方向交流。</sub>
+</div>
