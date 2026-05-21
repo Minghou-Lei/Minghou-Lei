@@ -15,11 +15,17 @@ Game Engine R&D Engineer · 游戏引擎研发工程师
 
 ---
 
+> *Tackling complex problems with rigorous engineering — careful, curious, and a little stubborn.*
+>
+> *用严谨的工程方法处理复杂问题——认真、好奇，以及一点点执着。*
+
+---
+
 ### About · 关于
 
-Game engine engineer since 2021. Working on Unity engine-level customization and in-house C++ engines, with cross-platform rendering across PC and major consoles. Side interest in AI coding agents applied to large engine codebases.
+Game engine engineer with several years in the industry. Day-to-day work centers on real-time rendering and engine-level systems. Side interest in AI coding agents applied to large codebases.
 
-游戏引擎方向，2021 年入行。主要工作围绕 Unity 引擎级定制与自研 C++ 引擎，覆盖 PC 与主机平台的跨端渲染。副线在 AI Agent 与大型引擎代码库的结合。
+游戏引擎方向从业多年。日常围绕实时渲染与引擎层系统展开。副线关注 AI Agent 在大型代码库中的应用。
 
 ---
 
